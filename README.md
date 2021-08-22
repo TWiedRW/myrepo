@@ -1,3 +1,3 @@
 # myrepo
-My first UNL repo
-A line I wrote on my local computer
+This is my first UNL repo.
+
